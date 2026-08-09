@@ -1,0 +1,103 @@
+AI RESUME ANALYZER - TEST RESULTS
+=================================
+
+TEST 1 - MACHINE LEARNING RESUME
+
+Resume:
+Resume_ML.pdf
+
+Recommended Role: 
+Data Scientist	
+Machine Learning Engineer	
+AI Engineer	
+Computer Vision Engineer	
+Python Developer	
+
+Match Score: 33.3%
+Data Scientist :9.63
+Machine Learning Engineer :9.22
+AI Engineer	:7.14
+Computer Vision Engineer :2.7
+Python Developer :0.32
+
+Skill Coverage:
+• C
+• Deep Learning
+• Machine Learning
+• OpenCV
+• Python
+•TensorFlow
+
+
+Missing Skills:
+• Pandas
+• NumPy
+• SQL
+• Statistics
+
+
+TEST 2 - DATA ANALYST RESUME
+
+Resume:
+Resume_Data_Analyst.pdf
+
+Recommended Role:
+Data Analyst
+Data Scientist
+Machine Learning Engineer
+Python Developer
+Software Engineer
+
+Match Score:
+Data Analyst	:3.57
+Data Scientist	:3.01
+Machine Learning Engineer	:1.68
+Python Developer	:1.57
+Software Engineer	:1.43
+
+Skill Coverage: 66.7%
+• C
+• Machine Learning
+• Power BI
+• Python
+• RAG
+• SQL
+• Statistics
+• Tableau
+
+Missing Skills:
+• Excel
+• Pandas
+
+
+TEST 3 - SOFTWARE DEVELOPER RESUME
+
+Resume:
+Resume_Software_Developer.pdf
+
+Recommended Role:
+Backend Developer
+Data Analyst
+Machine Learning Engineer
+AI Engineer
+NLP Engineer
+
+Match Score:
+AI Engineer	:0
+Backend Developer	:1.2
+Data Analyst	:0
+Machine Learning Engineer	:0
+NLP Engineer	:0
+
+Skill Coverage: 50%
+• C
+• C+
+• Flask
+• Python
+• RAG
+• SQL
+
+Missing Skills:
+• Django
+• REST API
+• Docker

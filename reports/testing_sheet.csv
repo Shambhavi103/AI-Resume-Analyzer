@@ -1,0 +1,8 @@
+Test Case,Input,Expected Output,Actual Output,Status
+Resume PDF Upload,Engineering resume,Resume uploaded successfully,Successful,Pass
+Resume Parsing,PDF resume,Resume text extracted,Successful,Pass
+Skill Extraction,Resume with Python and SQL,Python and SQL detected,Successful,Pass
+Job Matching,Engineering resume,Relevant roles recommended,Successful,Pass
+Skill Gap Analysis,ML resume,Missing skills identified,Successful,Pass
+Learning Roadmap,Missing skills,4-week roadmap generated,Successful,Pass
+Streamlit Interface,Resume upload,Results displayed,Successful,Pass
