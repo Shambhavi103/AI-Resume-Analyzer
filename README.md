@@ -43,3 +43,6 @@ Create and activate the virtual environment:
 
 ```bash
 python -m venv venv
+## Live Demo
+
+[Try the AI Resume Analyzer](https://ai-resume-analyzer-flrbdwfakj833f7hg3vf8k.streamlit.app/)
